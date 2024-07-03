@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-bollam&label=Profile%20views&color=0e75b6&style=flat" alt="aman-bollam" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, GSAP**
-
+- 🌱 I’m currently: learning **Tailwind CSS, GSAP** | refining **TensorFlow**
 - 📫 How to reach me **amanb@umd.edu**
 
 <h3 align="left">Connect with me:</h3>
