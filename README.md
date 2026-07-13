@@ -22,25 +22,101 @@
 
 <!-- https://github-stats-extended.vercel.app/frontend -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Aman-Bollam/TerpSense&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/TerpSense)
+<details open>
+  <summary><h2>📘 Projects</h2></summary>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=aman-folio&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/aman-folio)
+  <p align="left">
+    <a href="https://github.com/Aman-Bollam/TerpSense">
+      <img
+        width="278"
+        src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Aman-Bollam/TerpSense&show_owner=true&theme=transparent"
+        alt="TerpSense"
+      />
+    </a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Landline&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/Landline)
+<a href="https://github.com/Aman-Bollam/aman-folio">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=aman-folio&show_owner=true&theme=transparent"
+    alt="Aman Portfolio"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=fast-fourier-transform-presentation&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/fast-fourier-transform-presentation)
+<a href="https://github.com/Aman-Bollam/Landline">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Landline&show_owner=true&theme=transparent"
+    alt="Landline"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Prosperity4&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/Prosperity4)
+<a href="https://github.com/Aman-Bollam/fast-fourier-transform-presentation">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=fast-fourier-transform-presentation&show_owner=true&theme=transparent"
+    alt="Fast Fourier Transform Presentation"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=airequity&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/airequity)
+<a href="https://github.com/Aman-Bollam/Prosperity4">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Prosperity4&show_owner=true&theme=transparent"
+    alt="Prosperity4"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Neural-Nexus-HeritageSquareFounda&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/Neural-Nexus-HeritageSquareFounda)
+<a href="https://github.com/Aman-Bollam/airequity">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=airequity&show_owner=true&theme=transparent"
+    alt="AI Equity"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=LSTM-model-Stock-Predictor&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/LSTM-model-Stock-Predictor)
+<a href="https://github.com/Aman-Bollam/Neural-Nexus-HeritageSquareFounda">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Neural-Nexus-HeritageSquareFounda&show_owner=true&theme=transparent"
+    alt="Neural Nexus Heritage Square Foundation"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=FlappyBird&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/FlappyBird)
+<a href="https://github.com/Aman-Bollam/LSTM-model-Stock-Predictor">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=LSTM-model-Stock-Predictor&show_owner=true&theme=transparent"
+    alt="LSTM Stock Predictor"
+  />
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Space-Invaders&show_owner=true&theme=transparent)](https://github.com/Aman-Bollam/Space-Invaders)
+<a href="https://github.com/Aman-Bollam/FlappyBird">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=FlappyBird&show_owner=true&theme=transparent"
+    alt="Flappy Bird"
+  />
+</a>
+
+<a href="https://github.com/Aman-Bollam/Space-Invaders">
+  <img
+    width="278"
+    src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Space-Invaders&show_owner=true&theme=transparent"
+    alt="Space Invaders"
+  />
+</a>
+
+  </p>
+
+  <a href="https://github.com/Aman-Bollam?tab=repositories">
+    <img
+      alt="All Repositories"
+      title="All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"
+    />
+  </a>
+</details>
+
 ---
 
 ## Connect
