@@ -130,4 +130,4 @@
 - [Portfolio](https://amanbollam.com)
 - [LinkedIn](https://www.linkedin.com/in/aman-bollam)
 - [YouTube](https://www.youtube.com/@amanbollam)
-- [Email](mailto:amanandshivabollam@gmail.com)
+- [Email](mailto:amanb@terpmail.umd.edu)
