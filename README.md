@@ -22,7 +22,7 @@
 
 <!-- https://github-stats-extended.vercel.app/frontend -->
 
-<details open>
+<details >
   <summary><h2>📘 Projects</h2></summary>
 
   <p align="left">
