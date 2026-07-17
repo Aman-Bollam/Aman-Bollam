@@ -114,17 +114,58 @@
 
 ## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light)](https://skillicons.dev)
+<details>
+  <summary><h4>🧰 View tools</h4></summary>
 
-**Also comfortable with:** Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
+  <p>
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light"
+        alt="Aman's languages and tools"
+      />
+    </a>
+  </p>
+
+  <p>
+    <strong>Also comfortable with:</strong>
+    Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
+  </p>
+</details>
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/aman-bollam/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<details>
+  <summary><h4>🔗 View socials</h4></summary>
+
+  <p>
+    <a href="https://amanbollam.com">
+      <img
+        alt="Portfolio"
+        src="https://custom-icon-badges.demolab.com/badge/Portfolio-181717?style=for-the-badge&logo=browser&logoColor=white"
+      />
+    </a>
+
+<a href="https://www.linkedin.com/in/aman-bollam/">
+  <img
+    alt="LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
-- [Portfolio](https://amanbollam.com)
-- [LinkedIn](https://www.linkedin.com/in/aman-bollam)
-- [YouTube](https://www.youtube.com/@amanbollam)
-- [Email](mailto:amanb@terpmail.umd.edu)
+<a href="https://www.youtube.com/@amanbollam">
+  <img
+    alt="YouTube"
+    src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+  />
+</a>
+
+<a href="mailto:amanb@terpmail.umd.edu">
+  <img
+    alt="Email"
+    src="https://custom-icon-badges.demolab.com/badge/Email-333333?style=for-the-badge&logo=mail&logoColor=white"
+  />
+</a>
+
+  </p>
+</details>
+
