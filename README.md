@@ -1,5 +1,12 @@
-# Aman Bollam
-**`Software Engineer | UMD New Grad`** 
+<p align="center">
+  <a href="https://amanbollam.com">
+    <img
+      src="./assets/github-banner.png"
+      alt="Aman Bollam Portfolio"
+      width="100%"
+    />
+  </a>
+</p>
 
 ## About Me
 -  Recent University of Maryland Computer Science graduate focused on software engineering, AI, and full-stack product development.
