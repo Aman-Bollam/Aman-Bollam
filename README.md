@@ -8,8 +8,6 @@
   </a>
 </p>
 
-![Aman's recently played Spotify tracks](https://spotify-recently-played-readme.vercel.app/api?user=tdip7cmxpc5dvggusn43fna5m&count=1&width=1000)
-<!-- https://github.com/JeffreyCA/spotify-recently-played-readme -->
 ## About Me
 -  Recent University of Maryland Computer Science graduate focused on software engineering, AI, and full-stack product development.
 - I build practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
@@ -201,3 +199,5 @@
   </p>
 </details>
 
+![Aman's recently played Spotify tracks](https://spotify-recently-played-readme.vercel.app/api?user=tdip7cmxpc5dvggusn43fna5m&count=1&width=1000)
+<!-- https://github.com/JeffreyCA/spotify-recently-played-readme -->
