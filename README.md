@@ -75,14 +75,14 @@
     alt="Neural Nexus Heritage Square Foundation"
   />
 </a>
-
+<!--
 <a href="https://github.com/Aman-Bollam/LSTM-model-Stock-Predictor">
   <img
     width="278"
     src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=LSTM-model-Stock-Predictor&show_owner=true&description_lines_count=3&theme=transparent"
     alt="LSTM Stock Predictor"
   />
-</a>
+</a> -->
 <!--
 <a href="https://github.com/Aman-Bollam/Space-Invaders">
   <img
