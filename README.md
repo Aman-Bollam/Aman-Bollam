@@ -10,7 +10,7 @@
 
 ## About Me
 -  Recent University of Maryland Computer Science graduate focused on software engineering, AI, and full-stack product development.
--  I enjoy building practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
+- I build practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
 - Currently exploring early-career software engineering and AI engineering opportunities while continuing to build and ship new projects.
 
 ## Projects
