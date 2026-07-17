@@ -17,7 +17,7 @@
 
 ## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
-<details>
+<details open>
   <summary><h4>💻 View cards</h4></summary>
 
   <p align="left">
