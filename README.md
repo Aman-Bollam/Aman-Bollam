@@ -9,9 +9,9 @@
 </p>
 
 ## About Me
--  Recent University of Maryland Computer Science graduate focused on software engineering, AI, and full-stack product development.
-- I build practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
-- Currently exploring early-career software engineering and AI engineering opportunities while continuing to build and ship new projects.
+- Recent University of Maryland Computer Science graduate building AI-powered products across agents, applied machine learning, and full-stack development.
+- Recently built ClinicVoice AI, Landline, and an interactive Fast Fourier Transform learning platform.
+- Currently seeking early-career software engineering and AI engineering opportunities.
 
 ## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
