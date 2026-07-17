@@ -162,7 +162,7 @@
 
 ## Connect
 
-<details>
+<details open>
   <summary><h4>🔗 View socials</h4></summary>
 
   <p>
