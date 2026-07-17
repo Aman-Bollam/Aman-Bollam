@@ -83,23 +83,22 @@
     alt="LSTM Stock Predictor"
   />
 </a>
-
+<!--
 <a href="https://github.com/Aman-Bollam/Space-Invaders">
   <img
     width="278"
     src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=Space-Invaders&show_owner=true&description_lines_count=3&theme=transparent"
     alt="Space Invaders"
   />
-</a>
-
+</a> -->
+<!--
 <a href="https://github.com/Aman-Bollam/FlappyBird">
   <img
     width="278"
     src="https://github-stats-extended.vercel.app/api/pin?username=Aman-Bollam&repo=FlappyBird&show_owner=true&description_lines_count=3&theme=transparent"
     alt="Flappy Bird"
   />
-</a>
-
+</a> -->
 
   </p>
 
