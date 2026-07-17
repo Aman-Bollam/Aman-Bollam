@@ -22,7 +22,7 @@
 ## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
 <details>
-  <summary><h4>💻 View cards </h4></summary>
+  <summary><h4>💻 View cards</h4></summary>
 
   <p align="left">
     <a href="https://github.com/Aman-Bollam/clinicvoice-ai">
