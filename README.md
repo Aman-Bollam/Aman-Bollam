@@ -110,7 +110,7 @@
   </a>
 </details>
 
-## Skill Stack
+## Technical Skills
 
 <details>
   <summary><h4>🧰 View tools</h4></summary>
