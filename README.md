@@ -13,14 +13,11 @@
 -  I enjoy building practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
 - Currently exploring early-career software engineering and AI engineering opportunities while continuing to build and ship new projects.
  
----
-
 ## Skill Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light)](https://skillicons.dev)
 
 **Also comfortable with:** Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
-
 
 <!-- https://github-stats-extended.vercel.app/frontend -->
 <details>
@@ -120,16 +117,11 @@
   </a>
 </details>
 
-
-
-
 ## Connect
 
 <a href="https://www.linkedin.com/in/aman-bollam/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
-
 
 - [Portfolio](https://amanbollam.com)
 - [LinkedIn](https://www.linkedin.com/in/aman-bollam)
