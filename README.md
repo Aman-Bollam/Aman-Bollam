@@ -117,18 +117,48 @@
 <details>
   <summary><h4>🧰 View tools</h4></summary>
 
+  <h5>Languages</h5>
+
   <p>
     <a href="https://skillicons.dev">
       <img
-        src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light"
-        alt="Aman's languages and tools"
+        src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c"
+        alt="Programming languages"
       />
     </a>
   </p>
 
+  <h5>Full-Stack Development</h5>
+
   <p>
-    <strong>Also comfortable with:</strong>
-    Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,firebase,supabase,mongodb"
+        alt="Full-stack technologies"
+      />
+    </a>
+  </p>
+
+  <h5>AI, Machine Learning, and Data</h5>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"
+        alt="AI and machine learning technologies"
+      />
+    </a>
+  </p>
+
+  <h5>Cloud and Developer Tools</h5>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=aws,git,github,githubactions,vercel,postman,vscode"
+        alt="Cloud and developer tools"
+      />
+    </a>
   </p>
 </details>
 
