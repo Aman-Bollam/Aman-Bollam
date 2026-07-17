@@ -12,12 +12,6 @@
 -  Recent University of Maryland Computer Science graduate focused on software engineering, AI, and full-stack product development.
 -  I enjoy building practical systems involving AI agents, applied machine learning, automation, and interactive user experiences.
 - Currently exploring early-career software engineering and AI engineering opportunities while continuing to build and ship new projects.
- 
-## Skill Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light)](https://skillicons.dev)
-
-**Also comfortable with:** Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
 
 ## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
@@ -117,6 +111,12 @@
     />
   </a>
 </details>
+
+## Skill Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,pytorch,java,cpp,aws,docker,git,github&theme=light)](https://skillicons.dev)
+
+**Also comfortable with:** Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
 
 ## Connect
 
