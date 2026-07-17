@@ -19,9 +19,10 @@
 
 **Also comfortable with:** Next.js, Firebase, Supabase, scikit-learn, Pandas, NumPy, Express, SQL, and GitHub Actions.
 
+## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
 <details>
-  <summary><h2>📘 Projects</h2></summary>
+  <summary><h2>💻🔧📂</h2></summary>
 
   <p align="left">
     <a href="https://github.com/Aman-Bollam/clinicvoice-ai">
