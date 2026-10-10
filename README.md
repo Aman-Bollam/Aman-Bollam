@@ -9,9 +9,8 @@
 </p>
 
 ## About Me
-- Recent University of Maryland Computer Science graduate building AI-powered products across AI agents, applied machine learning, and full-stack development.
-- Recently built ClinicVoice AI, Landline, and an interactive Fast Fourier Transform learning platform.
-- Currently seeking early-career software engineering and AI engineering opportunities.
+- New Grad Hire @ Salesforce working on agentforce
+- Recent University of Maryland Computer Science graduate
 
 ## Projects
 <!-- https://github-stats-extended.vercel.app/frontend -->
